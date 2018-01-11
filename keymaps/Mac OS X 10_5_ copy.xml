@@ -8,6 +8,9 @@
     <keyboard-shortcut first-keystroke="meta 3" />
   </action>
   <action id="DuplicatesForm.SendToRight" />
+  <action id="EditorToggleShowLineNumbers">
+    <keyboard-shortcut first-keystroke="ctrl meta l" />
+  </action>
   <action id="FileChooser.GotoModule" />
   <action id="FileChooser.GotoProject" />
 </keymap>
