@@ -3,7 +3,9 @@
     <option name="customScope" value="File '.../vendor/paytm/src/main/java/code/niki/payment/PaytmCall.java [paytm_main]'" />
     <option name="defaultScopeName" value="File '.../vendor/paytm/src/main/java/code/niki/payment/PaytmCall.java [paytm_main]'" />
     <option name="localCaseSensitive" value="true" />
+    <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="File '.../vendor/paytm/src/main/java/code/niki/payment/PaytmCall.java [paytm_main]'" />
   </component>
 </application>
