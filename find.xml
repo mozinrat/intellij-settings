@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory '.../payment-base/src/main/java/code/niki/payment/client [payment-base_main]'" />
-    <option name="defaultScopeName" value="Directory '.../payment-base/src/main/java/code/niki/payment/client [payment-base_main]'" />
-    <option name="SEARCH_SCOPE" value="Directory '.../payment-base/src/main/java/code/niki/payment/client [payment-base_main]'" />
+    <option name="customScope" value="File '.../vendor/paytm/src/main/java/code/niki/payment/PaytmCall.java [paytm_main]'" />
+    <option name="defaultScopeName" value="File '.../vendor/paytm/src/main/java/code/niki/payment/PaytmCall.java [paytm_main]'" />
+    <option name="SEARCH_SCOPE" value="File '.../vendor/paytm/src/main/java/code/niki/payment/PaytmCall.java [paytm_main]'" />
   </component>
 </application>
