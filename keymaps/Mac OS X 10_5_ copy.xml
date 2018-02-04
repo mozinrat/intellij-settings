@@ -13,4 +13,7 @@
   </action>
   <action id="FileChooser.GotoModule" />
   <action id="FileChooser.GotoProject" />
+  <action id="Git.Pull">
+    <keyboard-shortcut first-keystroke="ctrl meta k" />
+  </action>
 </keymap>
