@@ -4,7 +4,6 @@
     <extensionMap>
       <mapping ext="csv" type="PLAIN_TEXT" />
       <mapping ext="import" type="PLAIN_TEXT" />
-      <mapping ext="drl" type="PLAIN_TEXT" />
       <mapping ext="propeties" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
