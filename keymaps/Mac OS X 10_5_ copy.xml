@@ -1,0 +1,19 @@
+<keymap version="1" name="Mac OS X 10.5+ copy" parent="Mac OS X 10.5+">
+  <action id="ActivateFavoritesToolWindow" />
+  <action id="ActivateFindToolWindow" />
+  <action id="ActivateGradleToolWindow">
+    <keyboard-shortcut first-keystroke="meta 2" />
+  </action>
+  <action id="ActivateMavenProjectsToolWindow">
+    <keyboard-shortcut first-keystroke="meta 3" />
+  </action>
+  <action id="DuplicatesForm.SendToRight" />
+  <action id="EditorToggleShowLineNumbers">
+    <keyboard-shortcut first-keystroke="ctrl meta l" />
+  </action>
+  <action id="FileChooser.GotoModule" />
+  <action id="FileChooser.GotoProject" />
+  <action id="Git.Pull">
+    <keyboard-shortcut first-keystroke="ctrl meta k" />
+  </action>
+</keymap>
