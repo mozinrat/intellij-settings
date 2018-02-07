@@ -5,6 +5,7 @@
       <mapping ext="csv" type="PLAIN_TEXT" />
       <mapping ext="import" type="PLAIN_TEXT" />
       <mapping ext="propeties" type="PLAIN_TEXT" />
+      <mapping ext="bpmn2" type="XML" />
     </extensionMap>
   </component>
 </application>
