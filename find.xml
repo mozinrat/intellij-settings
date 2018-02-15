@@ -1,11 +1,11 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../base/src/main/java/module-info.java [base_main]'" />
-    <option name="defaultScopeName" value="File '.../base/src/main/java/module-info.java [base_main]'" />
+    <option name="customScope" value="File '.../base/src/main/java/niki/payment/base/state/DyanamoPaymentDetail.java [base_main]'" />
+    <option name="defaultScopeName" value="File '.../base/src/main/java/niki/payment/base/state/DyanamoPaymentDetail.java [base_main]'" />
     <option name="localCaseSensitive" value="true" />
     <option name="regularExpressions" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="File '.../base/src/main/java/module-info.java [base_main]'" />
+    <option name="SEARCH_SCOPE" value="File '.../base/src/main/java/niki/payment/base/state/DyanamoPaymentDetail.java [base_main]'" />
   </component>
 </application>
