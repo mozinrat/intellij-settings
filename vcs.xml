@@ -42,6 +42,10 @@
           <option name="url" value="https://gitlab.com/niki-bot/SingleChat.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/rohit-zabbed/spring-cloud-aws.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/dev" />
