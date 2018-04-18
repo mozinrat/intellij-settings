@@ -12,6 +12,7 @@
       <mapping ext="geodesic" type="PLAIN_TEXT" />
       <mapping ext="factories" type="PLAIN_TEXT" />
       <mapping ext="propeties" type="PLAIN_TEXT" />
+      <mapping ext="dockerfile" type="PLAIN_TEXT" />
       <mapping ext="bpmn2" type="XML" />
     </extensionMap>
   </component>
