@@ -15,6 +15,7 @@
       <mapping ext="import" type="PLAIN_TEXT" />
       <mapping ext="zsh" type="PLAIN_TEXT" />
       <mapping ext="geodesic" type="PLAIN_TEXT" />
+      <mapping ext="base" type="PLAIN_TEXT" />
       <mapping ext="factories" type="PLAIN_TEXT" />
       <mapping ext="propeties" type="PLAIN_TEXT" />
       <mapping ext="deb" type="PLAIN_TEXT" />
