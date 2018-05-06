@@ -6,7 +6,6 @@
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping pattern="instances" type="PLAIN_TEXT" />
       <mapping pattern="policy_mfa" type="PLAIN_TEXT" />
-      <mapping pattern="Makefile" type="PLAIN_TEXT" />
       <mapping pattern="sdf" type="PLAIN_TEXT" />
       <mapping pattern="db-vpc" type="PLAIN_TEXT" />
       <mapping pattern="security groups" type="PLAIN_TEXT" />
