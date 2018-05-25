@@ -199,6 +199,9 @@
         <observation name="explicitSelect" value="129.0" />
         <observation name="typedSelect" value="27.0" />
       </dailyData>
+      <dailyData date="25-5-2018">
+        <observation name="cancelled" value="2.0" />
+      </dailyData>
     </factor>
     <factor id="completionType">
       <dailyData date="23-5-2018">
@@ -214,6 +217,9 @@
       </dailyData>
       <dailyData date="24-5-2018">
         <observation name="count" value="399.0" />
+      </dailyData>
+      <dailyData date="25-5-2018">
+        <observation name="count" value="2.0" />
       </dailyData>
     </factor>
     <factor id="doubleFeature:explicitProximity">
@@ -313,13 +319,6 @@
         <observation name="max" value="0.0" />
         <observation name="min" value="0.0" />
         <observation name="variance" value="0.0" />
-      </dailyData>
-      <dailyData date="24-5-2018">
-        <observation name="average" value="2357630340803037000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000.0" />
-        <observation name="count" value="305.0" />
-        <observation name="max" value="179769313486231570000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000.0" />
-        <observation name="min" value="-1.0" />
-        <observation name="variance" value="�" />
       </dailyData>
     </factor>
     <factor id="doubleFeature:prox_explicitlyImported">
