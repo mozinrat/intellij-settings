@@ -1,0 +1,5 @@
+<application>
+  <component name="GradleSystemSettings">
+    <option name="gradleVmOptions" value="-Dorg.gradle.warning.mode=all -Dorg.gradle.caching=true -Dorg.gradle.console=rich -Dorg.gradle.parallel=true -Dorg.gradle.configureondemand=true -Dorg.gradle.daemon=true" />
+  </component>
+</application>
