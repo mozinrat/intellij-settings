@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'payments'" />
-    <option name="defaultScopeName" value="Project 'payments'" />
+    <option name="customScope" value="File '.../federal/src/main/java/niki/payment/federal/FederalStates.java [federal_main]'" />
+    <option name="defaultScopeName" value="File '.../federal/src/main/java/niki/payment/federal/FederalStates.java [federal_main]'" />
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="Project 'payments'" />
+    <option name="SEARCH_SCOPE" value="File '.../federal/src/main/java/niki/payment/federal/FederalStates.java [federal_main]'" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
