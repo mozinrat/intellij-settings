@@ -4,27 +4,28 @@
     <extensionMap>
       <mapping pattern="Dockerfile.local" type="Dockerfile" />
       <mapping ext="tfstate" type="JSON" />
-      <mapping pattern="policy_mfa" type="PLAIN_TEXT" />
-      <mapping pattern="Dockefile" type="PLAIN_TEXT" />
-      <mapping pattern="instances" type="PLAIN_TEXT" />
-      <mapping pattern="motd" type="PLAIN_TEXT" />
-      <mapping pattern="db-vpc" type="PLAIN_TEXT" />
-      <mapping pattern="sdf" type="PLAIN_TEXT" />
-      <mapping pattern="LICENSE" type="PLAIN_TEXT" />
-      <mapping pattern="security groups" type="PLAIN_TEXT" />
-      <mapping pattern="META-INF" type="PLAIN_TEXT" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
-      <mapping ext="local" type="PLAIN_TEXT" />
-      <mapping ext="zsh" type="PLAIN_TEXT" />
+      <mapping pattern="policy_mfa" type="PLAIN_TEXT" />
+      <mapping pattern="META-INF" type="PLAIN_TEXT" />
+      <mapping pattern="Dockefile" type="PLAIN_TEXT" />
+      <mapping pattern="sdf" type="PLAIN_TEXT" />
+      <mapping pattern="db-vpc" type="PLAIN_TEXT" />
+      <mapping pattern=".Dockerignore" type="PLAIN_TEXT" />
+      <mapping pattern="instances" type="PLAIN_TEXT" />
+      <mapping pattern="security groups" type="PLAIN_TEXT" />
+      <mapping pattern="LICENSE" type="PLAIN_TEXT" />
+      <mapping pattern="motd" type="PLAIN_TEXT" />
       <mapping ext="csv" type="PLAIN_TEXT" />
-      <mapping ext="import" type="PLAIN_TEXT" />
-      <mapping ext="propeties" type="PLAIN_TEXT" />
-      <mapping ext="dockerfile" type="PLAIN_TEXT" />
-      <mapping ext="geodesic" type="PLAIN_TEXT" />
-      <mapping ext="deb" type="PLAIN_TEXT" />
+      <mapping ext="local" type="PLAIN_TEXT" />
       <mapping ext="md" type="PLAIN_TEXT" />
-      <mapping ext="factories" type="PLAIN_TEXT" />
+      <mapping ext="import" type="PLAIN_TEXT" />
+      <mapping ext="zsh" type="PLAIN_TEXT" />
+      <mapping ext="geodesic" type="PLAIN_TEXT" />
       <mapping ext="base" type="PLAIN_TEXT" />
+      <mapping ext="factories" type="PLAIN_TEXT" />
+      <mapping ext="propeties" type="PLAIN_TEXT" />
+      <mapping ext="deb" type="PLAIN_TEXT" />
+      <mapping ext="dockerfile" type="PLAIN_TEXT" />
       <mapping ext="bpmn2" type="XML" />
     </extensionMap>
   </component>
