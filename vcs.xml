@@ -82,8 +82,12 @@
           <option name="url" value="https://gitlab.com/niki-core/MessagingPlatform.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/afillatre/spring-boot-issue-10426.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/dev" />
+    <option name="cloneParentDir" value="$USER_HOME$/exp" />
   </component>
 </application>
