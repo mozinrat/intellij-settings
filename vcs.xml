@@ -90,8 +90,12 @@
           <option name="url" value="https://gitlab.com/niki-core/postprocessor-v1.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/ericdallo/spring-s3-properties-loader.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/dev" />
+    <option name="cloneParentDir" value="$USER_HOME$/exp" />
   </component>
 </application>
